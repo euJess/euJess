@@ -1,8 +1,8 @@
 ## Oii! Eu sou a Jessica Bonifácio
 
-- 🔭 No momento não estou trabalhando 
-- 🌱 Estou aprendendo Java e Javascrpt
-- ⚡ Fato engraçado: tenho uma gatinha chamada lero-lero 😍
+
+- 🌱 Estou aprendendo Java e Javascript
+
 
 
 <div align="center">
