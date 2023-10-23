@@ -31,3 +31,5 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=euJess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=euJess&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652a9ffff43a58c923cb5a88?variant=dark)](https://roadmap.sh)
