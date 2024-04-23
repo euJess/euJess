@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Jess 👋🏾
 
 
- <img align="left" alt="Jess-pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/769641497653018688/1054478586809171988/download20221201145802.png">
+ <img align="left" alt="Jess-pic" height="180" style="border-radius:50px;" src="">
 
 <div style="display: inline_block"><br>
   
